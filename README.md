@@ -100,7 +100,7 @@ You need this Express server to test making secure API calls from the React appl
 Open a new terminal window and clone the `auth0-express-js-sample` repo somewhere in your system.  **Ensure that you clone it outside of your React project directory**.
  
 ```bash
-git clone git@github.com:auth0-blog/auth0-express-js-sample.git
+git clone https://github.com/auth0-blog/auth0-express-js-sample.git
 ```
 
 Once you clone this repo, **make the `auth0-express-js-sample` directory your current directory**:
